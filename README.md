@@ -1,12 +1,7 @@
 # my-bank-app
-Login Credentials
+Login Credentials:
 
-User Name    Password
-
-mmr          1111
-
-mh           2222
-
-sr           3333
-
-em           4444
+Account1: User Name: mmr     Password: 1111, 
+Account2: User Name: mh     Password: 2222, 
+Account3: User Name: sr     Password: 3333, 
+Account4: User Name: em     Password: 4444
